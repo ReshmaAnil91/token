@@ -1,0 +1,17 @@
+
+.heading{
+background-color: rgb(94, 94, 146);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+box-sizing:border-box;
+height:50px;
+padding: 0;
+margin: 0;
+font-size:x-large;
+font-style: italic;
+font-stretch: expanded;
+font-weight:bolder;
+position:relative;
+text-align: left;
+line-height: 2;
+
+}
